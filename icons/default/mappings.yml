@@ -1,0 +1,15 @@
+'AgileBits/1Password: Password Manager and Secure Wallet':
+  'data/images/toolbar-chrome.png': 1Password.png
+  'data/images/toolbar-chrome@2x.png': 1Password@2x.png
+'Evernote/__MSG_ExtensionName__':
+  'images/icon-16x16.png': 'Evernote.png'
+  'images/icon-16x16@2x.png': 'Evernote@2x.png'
+  'images/ext_icons/web-clipper-16x16.png': 'Evernote.png'
+  'images/ext_icons/web-clipper-16x16@2x.png': 'Evernote@2x.png'
+  'images/ext_icons/web-clipper-19x19.png': 'Evernote19x19.png'
+  'images/ext_icons/web-clipper-19x19@2x.png': 'Evernote19x19@2x.png'
+  'images/ext_icons/web-clipper-20x20.png': 'Evernote20x20.png'
+  'images/ext_icons/web-clipper-40x40.png': 'Evernote40x40.png'
+'Inbox by Gmail':
+  'images/ic_extension_rest_19dp.png': 'Inbox.png'
+  'images/ic_extension_rest_38dp.png': 'Inbox@2x.png'
