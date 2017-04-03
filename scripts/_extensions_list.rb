@@ -14,7 +14,7 @@ def extensions_list(extensions_dir)
      .each do |extension_id|
     extension_root_dir = File.join(extensions_dir, extension_id)
     extension_versions = Dir.entries(File.join(extensions_dir, extension_id)).select { |entry| directory?(entry, extension_root_dir) }
-    last_extension_version = extension_versions.max { |a, b| Gem::Version.new(a) <=> Gem::Version.new(b) }
+    last_extension_version = extension_versions.max { |a, b| Gem::Version.new(a.gsub(/[^0-9\.]/, '')) <=> Gem::Version.new(b.gsub(/[^0-9\.]/, '')) }
     extension_dir = File.join(extensions_dir, extension_id, last_extension_version)
     extension_manifest_file = File.join(extension_dir, 'manifest.json')
 
