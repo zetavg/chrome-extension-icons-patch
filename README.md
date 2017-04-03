@@ -1,5 +1,16 @@
 # Chrome and Opera Extention Icons, Rebuilded
 
+## Features
+
+<!-- Consistent icon style -->
+
+### Clear on both light and dark themes
+
+![](images/demo-opera-light.png)
+![](images/demo-opera-dark.png)
+
+<!-- Neatly arranged visual spacing -->
+
 ## Install
 
 ```bash
