@@ -13,3 +13,8 @@
 'Inbox by Gmail':
   'images/ic_extension_rest_19dp.png': 'Inbox.png'
   'images/ic_extension_rest_38dp.png': 'Inbox@2x.png'
+'Eagle':
+  'icon.png': 'Eagle128x128.png'
+  'icon16.png': 'Eagle.png'
+  'icon48.png': 'Eagle48x48.png'
+  'icon128.png': 'Eagle128x128.png'
