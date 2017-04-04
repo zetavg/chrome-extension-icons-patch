@@ -2,7 +2,10 @@
 
 ## Features
 
-<!-- Consistent icon style -->
+### Consistent icon style
+
+![](images/before.png)
+![](images/after.png)
 
 ### Clear on both light and dark themes
 
