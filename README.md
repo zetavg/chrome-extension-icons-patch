@@ -1,5 +1,8 @@
 # Chrome and Opera Extention Icons, Rebuilded
 
+![](images/cover.gif)
+
+
 ## Features
 
 ### Consistent icon style
