@@ -1,6 +1,6 @@
-'AgileBits/1Password: Password Manager and Secure Wallet':
-  'data/images/toolbar-chrome.png': 1Password.png
-  'data/images/toolbar-chrome@2x.png': 1Password@2x.png
+'AgileBits/1Password: Password Manager and Secure Wallet.':
+  'assets/toolbar.png': 1Password@2x.png
+  'assets/toolbar@2x.png': 1Password64x64.png
 'Evernote/__MSG_ExtensionName__':
   'images/icon-16x16.png': 'Evernote.png'
   'images/icon-16x16@2x.png': 'Evernote@2x.png'
