@@ -1,6 +1,12 @@
 'AgileBits/1Password: Password Manager and Secure Wallet.':
   'assets/toolbar.png': 1Password@2x.png
   'assets/toolbar@2x.png': 1Password64x64.png
+'AgileBits/1Password: Password Manager and Secure Wallet':
+  'assets/toolbar.png': 1Password@2x.png
+  'assets/toolbar@2x.png': 1Password64x64.png
+'AgileBits/__MSG_appName__':
+  'assets/toolbar.png': 1Password@2x.png
+  'assets/toolbar@2x.png': 1Password64x64.png
 'Evernote/__MSG_ExtensionName__':
   'images/icon-16x16.png': 'Evernote.png'
   'images/icon-16x16@2x.png': 'Evernote@2x.png'
@@ -10,9 +16,12 @@
   'images/ext_icons/web-clipper-19x19@2x.png': 'Evernote19x19@2x.png'
   'images/ext_icons/web-clipper-20x20.png': 'Evernote20x20.png'
   'images/ext_icons/web-clipper-40x40.png': 'Evernote40x40.png'
-'Inbox by Gmail':
-  'images/ic_extension_rest_19dp.png': 'Inbox.png'
-  'images/ic_extension_rest_38dp.png': 'Inbox@2x.png'
+'Evernote/Evernote Web Clipper':
+  'res/icon.png': 'Evernote19x19@2x.png'
+  'res/icon128.png': 'Evernote128x128.png'
+# 'Inbox by Gmail':
+#   'images/ic_extension_rest_19dp.png': 'Inbox.png'
+#   'images/ic_extension_rest_38dp.png': 'Inbox@2x.png'
 'Eagle':
   'icon.png': 'Eagle128x128.png'
   'icon16.png': 'Eagle.png'
